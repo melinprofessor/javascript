@@ -1,0 +1,7 @@
+Adição ( + )
+Subtrair ( - )
+Multiplicar ( * )
+Divisão ( / )
+Módulo ( % )
+Incremento ( ++ )
+Decremento ( -- )
